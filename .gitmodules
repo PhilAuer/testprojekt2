@@ -1,3 +1,7 @@
 [submodule "testprojekt2"]
 	path = testprojekt2
 	url = https://github.com/PhilAuer/testprojekt2.git
+[submodule "testproject"]
+	path = testproject
+	url = https://github.com/PhilAuer/testproject.git
+	branch = production
